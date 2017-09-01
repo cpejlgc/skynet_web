@@ -15,11 +15,13 @@
 
 
 编译前
+
 ubuntu: sudo apt-get install libcurl4-gnutls-dev libreadline-dev autoconfig
 
 centos: sudo yum install libcurl-devel readline-devel  autoconfig
 
 编译
+
 Linux: make linux
 
 Mac: make macosx
