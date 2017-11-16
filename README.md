@@ -1,6 +1,10 @@
 作者：LGC
 时间：2017年 9月 1日 星期五 09时21分26秒
 
+服务端框架skynet: https://github.com/cloudwu/skynet/wiki 
+skynet学习资源：http://skynetclub.github.io/skynet/resource.html
+云风的演讲视频： http://gad.qq.com/content/coursedetail?id=467
+云风的blog: https://blog.codingnow.com/
 
 基于skynet的web服务
 1. 类似nodejs express api
