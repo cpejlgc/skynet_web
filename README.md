@@ -20,9 +20,9 @@ skynet学习资源：http://skynetclub.github.io/skynet/resource.html
 
 编译前
 
-ubuntu: sudo apt-get install libcurl4-gnutls-dev libreadline-dev autoconfig
+ubuntu: sudo apt-get install libcurl4-gnutls-dev libreadline-dev autoconf
 
-centos: sudo yum install libcurl-devel readline-devel  autoconfig
+centos: sudo yum install libcurl-devel readline-devel  autoconf
 
 编译
 
